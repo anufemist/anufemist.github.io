@@ -1,0 +1,26 @@
+{
+    "length": {
+        "title": "Длина",
+        "units": {
+            "meter": {
+                "title": "метр",
+                "symbol": "м",
+                "conversion": 1
+            },
+            "centimeter": {
+                "title": "сантиметр",
+                "symbol": "см",
+                "conversion": 0.01
+            },
+            "millimeter": {
+                "title": "миллиметр",
+                "symbol": "мм",
+                "conversion": 0.001
+            }
+        }
+    },
+    "speed": {
+        "title": "Объём",
+        "units": {}
+    }
+}
